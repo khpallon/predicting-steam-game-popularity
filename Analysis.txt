@@ -1,0 +1,25 @@
+if success is just a metric of having players play your game, the best chance is to make a free game or an MMORPG, as "massively multiplayer" already suggests many players
+
+Genre correlations with success:
+
+Free to Play             0.398940
+Massively Multiplayer    0.065331
+
+The top publishers in our dataset:
+
+'KRAFTON, Inc.'                                                         0.469900
+'Focus Entertainment'                             0.135416
+'4Divinity'                                       0.135416
+'Re-Logic'                                                               0.089965
+'Studio Wildcard', 'Snail Games USA']                                     0.064791
+'ConcernedApe']                                                           0.054496
+'Wallpaper Engine Team']                                                  0.049050
+'Grinding Gear Games']                                                    0.048775
+'Warhorse Studios', 'Deep Silver']                                        0.045698
+'Psyonix LLC']                                                            0.042104
+'Behaviour Interactive Inc.']                                             0.037591
+'Digital Extremes']                                                       0.037100
+'Facepunch Studios']                                                      0.036409
+'Square Enix', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']    0.034544
+
+the publisher does not make a game successful. As we can see with KRAFTON (publishers of PUBG), Square Enix (the Final Fantasy Series) and the Wallpaper Engine Team, they are publishers of a single successful title or IP. 
